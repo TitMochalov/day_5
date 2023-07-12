@@ -1,0 +1,18 @@
+.conteiner{
+position: relative;
+}
+
+.block{
+  width: 581.5;
+  height: 100px;
+  box-shadow: 0px 0px 10px rgb(1, 38, 54);
+  background-color: aqua;
+}
+
+
+.block{
+  position: fixed;
+  bottom: 100px;
+  right: 50px;
+  left: 50%;
+}
